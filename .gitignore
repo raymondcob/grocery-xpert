@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+
+# Logs
+*.log
+logs/
+
+# Cache and temporary files
+/cache/
+/temp/
+*.cache
+
+# Compiled output
+/dist/
+/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*~
